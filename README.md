@@ -36,4 +36,3 @@ Stay updated, get access, and receive support through our channels:
 fd
 sda
 sa
-das
