@@ -34,5 +34,3 @@ Stay updated, get access, and receive support through our channels:
 
 📺 YouTube Channel: https://www.youtube.com/@airdropindependen
 fd
-sda
-
